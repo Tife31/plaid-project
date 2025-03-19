@@ -1,0 +1,11 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+idna==3.10
+nulltype==2.3.1
+plaid-python==29.0.0
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+requests==2.32.3
+schedule==1.2.2
+six==1.17.0
+urllib3==2.3.0
